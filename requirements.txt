@@ -1,0 +1,4 @@
+# Only needed to regenerate the figures in assets/figures/
+matplotlib>=3.8
+numpy>=1.26
+scipy>=1.11
